@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemCombo"
+        android:title="combo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemLista"
+        android:title="lista"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemSair"
+        android:title="sair"
+        app:showAsAction="never" />
+</menu>
